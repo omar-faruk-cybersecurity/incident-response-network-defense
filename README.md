@@ -1,4 +1,4 @@
-![Incident response and network defense — Omar Faruk](assets/banner.svg)
+![Incident response and network defense — Omar Faruk](banner.svg)
 
 # Incident Response And Network Defense
 
